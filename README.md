@@ -1,6 +1,3 @@
-# pyhton-project-sem-1
-contact management
-
     contacts = []
     # add
     def add_contact():
